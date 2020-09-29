@@ -163,7 +163,5 @@ Camilo Moncada - [Github](https://github.com/moncada92) / [Twitter](https://twit
 
 
 Second part of Airbnb: Joann Vuong
-
-Fourth part of Airbnb: Andres Rodriguez - Camilo Moncada
 ## License
 Public Domain. No copy write protection. 
